@@ -1,4 +1,4 @@
-![cover](Avez cover photo.jpg)
+![cover](Avez cover photo.jpg).
 
 <h1 align="center">Hi 👋, I'm Avez khan</h1>
 <h3 align="center">A frontend developer with hands-on experience showcasing my work via 3+ Amazing complex React projects.</h3>
