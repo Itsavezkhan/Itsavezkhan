@@ -1,4 +1,4 @@
-(/assets/images/avez cover photo.jpg)
+([/assets/images/avez cover photo.jpg](https://drive.google.com/file/d/1ByuPC7xYM4-3rLMUab9dQ7bDWyKVIm9G/view?usp=drive_link))
 
 <h1 align="center">Hi 👋, I'm Avez khan</h1>
 <h3 align="center">A frontend developer with hands-on experience showcasing my work via 3+ Amazing complex React projects.</h3>
