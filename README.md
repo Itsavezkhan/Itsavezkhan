@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 👨‍💻 All of my projects are available at [https://peerlist.io/aveziscoding](https://peerlist.io/aveziscoding)
+- 👨‍💻 All of my projects are available at [Peerlist profile](https://peerlist.io/aveziscoding)
 
-- 📝 I regularly write articles on [https://hashnode.com/@avezcode](https://hashnode.com/@avezcode)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@avezcode)
 
 - 💬 Ask me about **react, roadmaps and javascript.**
 
 - 📫 How to reach me **Avezkhan412@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1URR9rD4k_0s5qPX3lq8xeQ85JbqW1S2r/view](https://drive.google.com/file/d/1URR9rD4k_0s5qPX3lq8xeQ85JbqW1S2r/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1URR9rD4k_0s5qPX3lq8xeQ85JbqW1S2r/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
