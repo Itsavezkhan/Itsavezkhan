@@ -1,4 +1,6 @@
-![cover!](Avez cover photo.jpg).
+
+
+![cover](https://github.com/Itsavezkhan/Itsavezkhan/assets/126850111/3f58b6d0-e553-4336-b4f7-e584161ea3f7)
 
 <h1 align="center">Hi 👋, I'm Avez khan</h1>
 <h3 align="center">A frontend developer with hands-on experience showcasing my work via 3+ Amazing complex React projects.</h3>
